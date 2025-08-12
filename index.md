@@ -1,5 +1,0 @@
-Navn: Martin Vistesen Uddannelse: Datamatiker, 4. semester
-
-Velkommen til min portefølje. Her dokumenterer jeg mit projektarbejde.
-
-Projektintroduktion Vi moderniserer og udvider funktionaliteten på sundhedssiden thewayofcoherence.com, der fokuserer på alternative sundhedsmetoder og coherence-terapi. Formålet er at gøre platformen mere interaktiv og videnstyret ved at integrere kunstig intelligens (AI), machine learning (ML), databehandling og en moderne systemarkitektur med høj sikkerhed og fleksibel hosting.
