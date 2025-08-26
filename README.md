@@ -1,6 +1,6 @@
 # mlvi.github.io
-Navn: Martin Vistesen
-Uddannelse: Datamatiker, 4. semester
+- Navn: Martin Vistesen
+- Uddannelse: Datamatiker, 4. semester
 
 Velkommen til min portefølje.
 Her dokumenterer jeg mit projektarbejde.
