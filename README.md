@@ -12,4 +12,4 @@ Projektintroduktion
 # mine valgfag
 
 - Ai & Mechine leaning
-- Automatisering og scripting
+- Automatisering & scripting
